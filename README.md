@@ -11,7 +11,7 @@ Stop sitting inside rotting like a loser when theres so much to experience outsi
 # and thats all she wrote
 
 # Important information
-Check out the https://github.com/telaviv67/RijiN/blob/main/rijin_solutions_commit_stats.txt file in the repository for commit stats.
+Check out the rijin_solutions_commit_stats.txt file in the repository for commit stats.
 
 # Credits
 1. Senator - Loader, codebase, framework, cheats, reverse engineering, DRM Designs, UI, security design, project design, fixes, the lsit goes on (easily 90% of the work)
